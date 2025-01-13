@@ -10,5 +10,5 @@ To evaluate the perfomance of ChatGPT for agronomic services using data comes fo
 
 
 # Workflow of work
-<img src="https://github.com/j-river1/LMM_CitizensScience-/tree/main/IMG/LMMDiagramAll.png" alt="centered image" id="logo" data-height-percentage="80" data-actual-width="200" data-actual-height="55" class="center">
+<img src="https://github.com/j-river1/LMM_CitizensScience-/tree/main/IMG/LMMDiagramAll_ex1.png" alt="centered image" id="logo" data-height-percentage="80" data-actual-width="200" data-actual-height="55" class="center">
 
